@@ -1,3 +1,3 @@
-​let iAm = 'я'
+let iAm = "я";
 let krasavchik = "красавчик!";
-alert(iAm);
+console.log(iAm.toUpperCase()+" "+krasavchik);
